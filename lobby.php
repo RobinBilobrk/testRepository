@@ -16,6 +16,7 @@
 
   <aside>
     <h1>Lobby</h1>
+    <h1>Bla </h1>
 
     <div>Room 1</div>
     <button type="button" name="but1">Join</button>
