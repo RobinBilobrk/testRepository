@@ -26,6 +26,6 @@
 
   </aside>
 
-
+    <footer>copy</footer>
   </body>
 </html>
